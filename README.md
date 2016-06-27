@@ -12,7 +12,7 @@
 
 ### Contact ###
 
-* This is undirectly supported. By this I mean it depends on how far into my PhD writeup I am.
+* This is indirectly supported. By this I mean it depends on how far into my PhD writeup I am.
 * At any rate, get in touch using the details below, and if I can help then I will:
 
 
