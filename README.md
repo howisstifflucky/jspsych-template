@@ -1,7 +1,4 @@
-# jspsych-template
-This is a template experiment for PsychoPy, a JavaScript library that allows for the creation and deployment of behavioural experiments in a webbrowser.
-
-# README #
+# Readme #
 
 ## jspsych-template ##
 
@@ -16,7 +13,8 @@ This is a template experiment for PsychoPy, a JavaScript library that allows for
 ### Contact ###
 
 * This is undirectly supported. By this I mean it depends on how far into my PhD writeup I am.
-* At any rate, get in touch with me below, and if I can help then i will.
+* At any rate, get in touch using the details below, and if I can help then I will:
+
 
 * Ashley Chapman
     * Ash@doubleblind.org
